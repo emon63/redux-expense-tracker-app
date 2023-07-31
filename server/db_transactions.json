@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Salary from Google",
+      "type": "income",
+      "amount": 1000000
+    },
+    {
+      "id": 2,
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 200000
+    },
+    {
+      "name": "My salary from Google",
+      "type": "income",
+      "amount": 100000,
+      "id": 3
+    },
+    {
+      "name": "My expense",
+      "type": "expense",
+      "amount": 40000,
+      "id": 4
+    }
+  ]
+}
